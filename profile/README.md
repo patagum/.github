@@ -5,5 +5,5 @@ Patagum Theme
 </h3>
 
 <p align="center">
-<img src="https://img.shields.io/github/stars/patagum?logoColor=%232888A6&style=flat-square">
+<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/patagum?logoColor=%232888A6&style=for-the-badge">
 </p>
