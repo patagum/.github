@@ -1,12 +1,9 @@
-## Hi there 👋
+<h3 align="center">
+<img src="https://user-images.githubusercontent.com/24394276/206763738-8c52853e-9ef0-4aad-8fc8-8b7f070c46bb.png" width="200" alt="logo">
 
-<!--
+Patagum Theme
+</h3>
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<p align="center">
+<img src="https://img.shields.io/github/stars/patagum?logoColor=%232888A6&style=flat-square">
+</p>
